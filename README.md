@@ -1,5 +1,35 @@
 ### Hi there, I'm Pawel 👋
 
+# AI Context for Paweł Brudniak
+
+## Profil
+- Nazwa listy: Paweł Brudniak
+- Lokalizacja: Poland
+- Języki: English (primary)
+- Strefa czasowa: Europe/Warsaw
+- Job title: QA Engineer \| ISTQB FL®
+- O mnie: 🛡️ Prevent defects → ✨ Deliver quality
+
+## Online Presence
+\[Profil Gravatara\]: [gravatar.com/importantreally0dbe48994c](https://gravatar.com/importantreally0dbe48994c)
+\[Calendly\]: [calendly.com/pawelbrudniak](https://calendly.com/pawelbrudniak)
+\[GitHub\]: [github.com/pawelbrudniak](https://github.com/pawelbrudniak)
+\[LinkedIn\]: [www.linkedin.com/in/pawelbrudniak](https://www.linkedin.com/in/pawelbrudniak)
+\[Stack Overflow\]: [stackoverflow.com/users/4682171/pawe%c5%82-brudniak](https://stackoverflow.com/users/4682171/pawe%c5%82-brudniak)
+
+## Informacje o płatności
+\[PayPal.me\]: [paypal.me/pawelbrudniak](https://paypal.me/pawelbrudniak)
+
+
+
+
+
+
+
+
+
+
+
 🚀 **Full Stack React Developer** | Passionate about building scalable web applications
 
 ### 🛠 Tech Stack
